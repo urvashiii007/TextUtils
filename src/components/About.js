@@ -67,7 +67,7 @@ export default function About(props) {
           </h2>
           <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
-             TextUtlis is a free character counter tool that provudes instant character count & word count statistics for a given text.TextUtils reports the number of words and characters.Thus it is suuitable for writing text with word/character limit. 
+             TextUtlis is a free character counter tool that provides instant character count & word count statistics for a given text.TextUtils reports the number of words and characters.Thus it is suuitable for writing text with word/character limit. 
             </div>
           </div>
         </div>
@@ -77,7 +77,7 @@ export default function About(props) {
               <strong>Browser Compatible</strong>
             </button>
           </h2>
-          <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+         <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
               This word counter software works in any web browsers such as chrome,Firefox,Internet Explorer.It can be used to count characters.
             </div>
